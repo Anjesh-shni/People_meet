@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "89746553645",
+    "project_id": "arcane-meet",
+    "storage_bucket": "arcane-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89746553645:android:3b3c4fc205918dc15271a4",
+        "android_client_info": {
+          "package_name": "com.example.meeting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89746553645-dodi9q5prm4f792nu2v99s60rcqnta7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meeting_app",
+            "certificate_hash": "e706d5993d68f77b87f541b1e2144c7eb8f775bd"
+          }
+        },
+        {
+          "client_id": "89746553645-p1o289jf8m5obal7nfds5i50mt9bhcg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtoOkigjK_QjIfLiMraK531kKOUuZVans"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89746553645-7o3kh9uiicqmsu82agjji94r0drg1uqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
