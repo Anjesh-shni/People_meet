@@ -13,10 +13,17 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+
   cloud_firestore: ^4.5.2
   firebase_auth: ^4.4.2
   firebase_core: ^2.10.0
   google_sign_in: ^6.1.0
+  # jitsi_meet: ^4.0.0
+
+  jitsi_meet:
+    git:
+      url: https://github.com/dispersik/jitsi_meet_fork
+      ref: master
 
 dev_dependencies:
   flutter_test:
